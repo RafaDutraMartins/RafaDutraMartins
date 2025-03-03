@@ -5,12 +5,6 @@
 Me chamo Rafael Dutra Martins, tenho 28 anos e sou natural de São Paulo. Atualmente, sou formado em Análise e Desenvolvimento de Sistema. Sou apaixonada por tecnologia e análise, estou buscando aprofundar meu conhecimento em engenharia de dados, porem todas as areas relacionadas a dados me encatam, este portifolio tem o objetivo de apresentar os meus projetos pessoais desenvolvivos por mim, com conhecimento que adiquiri durante meus estudos.
 <p align="left">
  
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
     <a href="https://github.com/RafaDutraMartins?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
