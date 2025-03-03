@@ -3,25 +3,6 @@
 **`Data Analytics`**
 
 Me chamo Rafael Dutra Martins, tenho 28 anos e sou natural de São Paulo. Atualmente, sou formado em Análise e Desenvolvimento de Sistema. Sou apaixonada por tecnologia e análise, estou buscando aprofundar meu conhecimento em engenharia de dados, porem todas as areas relacionadas a dados me encatam, este portifolio tem o objetivo de apresentar os meus projetos pessoais desenvolvivos por mim, com conhecimento que adiquiri durante meus estudos.
-<p align="left">
- 
-    <a href="https://github.com/RafaDutraMartins?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/RafaDutraMartins?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/RafaDutraMartins?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/RafaDutraMartins?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
----
 
 ### 🤖 Linguagens e Tecnologias
 
