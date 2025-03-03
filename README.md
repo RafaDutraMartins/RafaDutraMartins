@@ -1,6 +1,6 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=32B12D&width=435&lines=Bem+vindo+ao+meu+perfil+!+" alt="Typing SVG" /></a>
 #
-**`Data Analytics`**
+**👨‍💻 `Data Analytics`**
 
 Me chamo Rafael Dutra Martins, tenho 28 anos e sou natural de São Paulo. Atualmente, sou formado em Análise e Desenvolvimento de Sistema. Sou apaixonada por tecnologia e análise, estou buscando aprofundar meu conhecimento em engenharia de dados, porem todas as areas relacionadas a dados me encatam, este portifolio tem o objetivo de apresentar os meus projetos pessoais desenvolvivos por mim, com conhecimento que adiquiri durante meus estudos.
 
