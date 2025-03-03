@@ -1,9 +1,8 @@
-# 👩🏻‍💻 Larissa Kich
+# 👨‍💻 Rafael Dutra Martins
 
-**`Desenvolvedora FullStack`**
+**`Data Analytics`**
 
-Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
-
+Me chamo Rafael Dutra Martins, tenho 28 anos e sou natural de São Paulo. Atualmente, sou formado em Análise e Desenvolvimento de Sistema. Sou apaixonada por tecnologia e análise, estou buscando aprofundar meu conhecimento em engenharia de dados, porem todas as areas relacionadas a dados me encatam, este portifolio tem o objetivo de apresentar os meus projetos pessoais desenvolvivos por mim, com conhecimento que adiquiri durante meus estudos.
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
         <img 
